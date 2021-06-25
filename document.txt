@@ -1,0 +1,11 @@
+References
+[1]	Soleymani, M., Garcia, D., Jou, B., Schuller, B., Chang, S.F. and Pantic, M., 2017. A survey of multimodal sentiment analysis. Image and Vision Computing, 65, pp.3-14.
+[2]	Do, H.H., Prasad, P.W.C., Maag, A. and Alsadoon, A., 2019. Deep learning for aspect-based sentiment analysis: a comparative review. Expert Systems with Applications, 118, pp.272-299.
+[3]	Basiri, M.E., Nemati, S., Abdar, M., Cambria, E. and Acharya, U.R., 2021. ABCDM: An attention-based bidirectional CNN-RNN deep model for sentiment analysis. Future Generation Computer Systems, 115, pp.279-294.
+[4]	Basiri, M.E., Nemati, S., Abdar, M., Cambria, E. and Acharya, U.R., 2021. ABCDM: An attention-based bidirectional CNN-RNN deep model for sentiment analysis. Future Generation Computer Systems, 115, pp.279-294.
+[5]	Xu, G., Meng, Y., Qiu, X., Yu, Z. and Wu, X., 2019. Sentiment analysis of comment texts based on BiLSTM. Ieee Access, 7, pp.51522-51532.
+[6]	Yadav, A. and Vishwakarma, D.K., 2020. Sentiment analysis using deep learning architectures: a review. Artificial Intelligence Review, 53(6), pp.4335-4385.
+[7]	Xu, H., Liu, B., Shu, L. and Yu, P.S., 2019. BERT post-training for review reading comprehension and aspect-based sentiment analysis. arXiv preprint arXiv:1904.02232.
+[8]	Alaei, A.R., Becken, S. and Stantic, B., 2019. Sentiment analysis in tourism: capitalizing on big data. Journal of Travel Research, 58(2), pp.175-191.
+[9]	Soleymani, M., Garcia, D., Jou, B., Schuller, B., Chang, S.F. and Pantic, M., 2017. A survey of multimodal sentiment analysis. Image and Vision Computing, 65, pp.3-14.
+[10]	Zhang, L., Wang, S. and Liu, B., 2018. Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4), p.e1253.
